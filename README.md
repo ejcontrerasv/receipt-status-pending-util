@@ -34,9 +34,9 @@
 - [ ] curl  =>
 
 ```java
-curl -X PUT --header 'Content-Type: application/json' --header 'Accept: application/json' 'http://localhost:8888/app/v1/process/all-companies'```
+curl -X PUT --header 'Content-Type: application/json' --header 'Accept: application/json' 'http://localhost:8888/app/v1/process/all-companies'
 
-```java
+
 curl -X PUT --header 'Content-Type: application/json' --header 'Accept: application/json' 'http://localhost:8888/app/v1/process/10'```
 
 
